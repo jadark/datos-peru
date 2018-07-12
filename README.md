@@ -34,7 +34,7 @@ Obten los Nombres y apellidos de una Persona a partir de su Nro de DNI o CUI de 
 ?>
 ```
 
-### Instalacion mediante composer
+### Instalacion mediante composer (No es necesasria por el momento)
 ```sh
 	composer require -o "jossmp/datos-peru"
 ```
